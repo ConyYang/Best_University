@@ -1,0 +1,82 @@
+{
+    "course0": {
+        "name": "新手入门指南之玩转实验楼",
+        "course_link": "https://www.shiyanlou.com/courses/63"
+    },
+    "course1": {
+        "name": "Python 新手入门课",
+        "course_link": "https://www.shiyanlou.com/courses/1330"
+    },
+    "course2": {
+        "name": "Linux 基础入门",
+        "course_link": "https://www.shiyanlou.com/courses/1"
+    },
+    "course3": {
+        "name": "WebIDE 环境使用指南",
+        "course_link": "https://www.shiyanlou.com/courses/1740"
+    },
+    "course4": {
+        "name": "Python 实现轻量型 Web 框架",
+        "course_link": "https://www.shiyanlou.com/courses/885"
+    },
+    "course5": {
+        "name": "C++ 实现 STL 标准库和算法",
+        "course_link": "https://www.shiyanlou.com/courses/1166"
+    },
+    "course6": {
+        "name": "机器学习开放基础课程",
+        "course_link": "https://www.shiyanlou.com/courses/1283"
+    },
+    "course7": {
+        "name": "Django 基础入门",
+        "course_link": "https://www.shiyanlou.com/courses/1127"
+    },
+    "course8": {
+        "name": "C++ 从零实现 NoSQL 数据库",
+        "course_link": "https://www.shiyanlou.com/courses/1341"
+    },
+    "course9": {
+        "name": "知识图谱构建射雕三部曲人物关系",
+        "course_link": "https://www.shiyanlou.com/courses/1354"
+    },
+    "course10": {
+        "name": "Ansible 基础入门",
+        "course_link": "https://www.shiyanlou.com/courses/606"
+    },
+    "course11": {
+        "name": "JavaScript 基础入门",
+        "course_link": "https://www.shiyanlou.com/courses/1238"
+    },
+    "course12": {
+        "name": "Python 异步网络编程实战",
+        "course_link": "https://www.shiyanlou.com/courses/1292"
+    },
+    "course13": {
+        "name": "Python3  简明教程",
+        "course_link": "https://www.shiyanlou.com/courses/596"
+    },
+    "course14": {
+        "name": "PyTorch 入门与实战",
+        "course_link": "https://www.shiyanlou.com/courses/1073"
+    },
+    "course15": {
+        "name": "TensorFlow 2 深度学习入门与实践",
+        "course_link": "https://www.shiyanlou.com/courses/1080"
+    },
+    "course16": {
+        "name": "Spring Cloud 与 Docker 实战",
+        "course_link": "https://www.shiyanlou.com/courses/1360"
+    },
+    "course17": {
+        "name": "自然语言处理基础入门",
+        "course_link": "https://www.shiyanlou.com/courses/1208"
+    },
+    "course18": {
+        "name": "C++ 实现简易 Docker 容器",
+        "course_link": "https://www.shiyanlou.com/courses/608"
+    },
+    "course19": {
+        "name": "C 语言简明教程",
+        "course_link": "https://www.shiyanlou.com/courses/57"
+    }
+}
