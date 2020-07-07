@@ -1,0 +1,17 @@
+1. connect to mysql
+    mysql -u root -p
+    u: username
+    p: password
+
+2. check database
+    show database;
+
+3. chose database
+    use database_name;
+
+4. check database
+    show tabels;
+
+5. check structure
+    desc score
+
