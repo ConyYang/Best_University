@@ -1,17 +1,19 @@
-1. connect to mysql
-    mysql -u root -p
-    u: username
-    p: password
+- Hints:
+find() is a method to search the document tree, it can return the first matched element.
+Its complete parameter form is: find( name, attrs, recursive, string, **kwargs ).
+The parameter name retrieves the string by tag name,
+the parameter attrs retrieves the string by tag attribute value,
+whether the parameter recursive retrieves all descendants, the default is True,
+and the parameter string is the non-attribute character string in the retrieval tag.
 
-2. check database
-    show database;
+children is a property that traverses down the label.
+There are three traversal forms for tags, which are downlink traversal, uplink traversal and parallel traversal.
 
-3. chose database
-    use database_name;
+- Downstream traversal has the following three attributes:
+.children is looping through the son node
+.descendants loops through all descendant nodes
+.contents is to store all the son nodes in the tag into the list
 
-4. check database
-    show tabels;
-
-5. check structure
-    desc score
-
+- The upstream traversal has the following two attributes:
+.parent is the parent node label to access the node
+.parents is to loop through all ancestor nodes
